@@ -3,7 +3,7 @@
 ## Price Male Jeans for Star Jeans
 
 <p align='center'>
-    <img src='img/img_banner.png'<
+    <img src='img/img_banner.PNG'<
 </p>
 
 # 1. Business Problem
